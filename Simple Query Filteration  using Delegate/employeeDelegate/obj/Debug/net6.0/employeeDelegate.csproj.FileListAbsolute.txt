@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\bin\Debug\net6.0\employeeDelegate.exe
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\bin\Debug\net6.0\employeeDelegate.deps.json
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\bin\Debug\net6.0\employeeDelegate.runtimeconfig.json
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\bin\Debug\net6.0\employeeDelegate.dll
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\bin\Debug\net6.0\employeeDelegate.pdb
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.dll
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\refint\employeeDelegate.dll
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.pdb
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\employeeDelegate.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\employeeDelegate\employeeDelegate\obj\Debug\net6.0\ref\employeeDelegate.dll
